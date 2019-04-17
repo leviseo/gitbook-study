@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [chapter1. 기초](undefined/README.md)
-  * [프로그래밍이란?](undefined/1.-4-3-1.md)
-  * [자바스크립트란?](undefined/undefined-1.md)
+* [chapter1. 기초](chapter1/README.md)
+  * [프로그래밍이란?](chapter1/1.1-1.md)
+  * [자바스크립트란?](chapter1/1.1-2.md)
 
 ## Link
 
