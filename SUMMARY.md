@@ -4,6 +4,8 @@
 * [chapter1. 기초](chapter1/README.md)
   * [프로그래밍이란?](chapter1/1.1-1.md)
   * [자바스크립트란?](chapter1/1.1-2.md)
+* [practice](practice/README.md)
+  * [연습문제1](practice/1.md)
 
 ## Link
 
