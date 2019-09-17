@@ -13,6 +13,7 @@
   * [프로그래밍이란?](note/chapter1/1.1-1.md)
   * [자바스크립트란?](note/chapter1/1.1-2.md)
 * [Memo](note/memo.md)
+* [Memo2](note/memo2.md)
 
 ## Link
 
