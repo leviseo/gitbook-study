@@ -45,5 +45,7 @@ for : 반복횟수가 정해져있을 때  / while : 반복횟수 모를 때, �
 
 섹션 6. 가위바위보  
 setTimeout\(\) / setInterval\(\)  
-querySelectorAll\(\)
+querySelectorAll\(\)  
+[find\(\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/find)  
+[findIndex\(\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
 
