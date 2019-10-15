@@ -6,14 +6,17 @@
 
 * [01.inputNumber](freeform-project/01.inputnumber.md)
 * [06.Array](freeform-project/06.array.md)
+* [10.OOP](freeform-project/10.oop-this.md)
 
 ## Note
 
 * [chapter1. 기초](note/chapter1/README.md)
   * [프로그래밍이란?](note/chapter1/1.1-1.md)
   * [자바스크립트란?](note/chapter1/1.1-2.md)
-* [Memo](note/memo.md)
-* [Memo2](note/memo2.md)
+* [Notes](note/notes/README.md)
+  * [컴파일러 인터프리터](note/notes/undefined.md)
+  * [Memo2](note/notes/memo2.md)
+  * [Memo](note/notes/memo.md)
 
 ## Link
 
