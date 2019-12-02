@@ -49,5 +49,6 @@ querySelectorAll\(\)
 [find\(\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/find)  
 [findIndex\(\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)  
 [Object.entries\(\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)  
-[clearInterval\(\)](https://developer.mozilla.org/ko/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval)
+[clearInterval\(\)](https://developer.mozilla.org/ko/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval)  
+[includes\(\)](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 
