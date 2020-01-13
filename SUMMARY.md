@@ -17,7 +17,7 @@
 * [chapter8. 함수](study/chapter8..md)
 * [chapter9. 객체](study/chapter9..md)
 
-## FREEFORM PROJECT
+## Freeform Project
 
 * [inputNumber](freeform-project/01.inputnumber.md)
 * [BMI](freeform-project/bmi.md)
@@ -37,10 +37,11 @@
   * [로또 추첨기](https://leviseo.github.io/anonymous/ex05lotto/index.html)
   * [가위바위보](https://leviseo.github.io/anonymous/ex06rps/index.html)
 
-## archive
+## Archive
 
-* [컴파일러 인터프리터](archive/undefined.md)
-* [Memo](archive/memo.md)
+* [Archive](archive/archive/README.md)
+  * [컴파일러 인터프리터](archive/archive/undefined.md)
+  * [Memo](archive/archive/memo.md)
 
 ## Bookmarks <a id="bookmarks-1"></a>
 
