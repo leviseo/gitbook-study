@@ -4,6 +4,7 @@
 
 ## Study
 
+* [Curriculum](study/curriculum.md)
 * [chapter1. 기초](study/chapter1/README.md)
   * [프로그래밍이란?](study/chapter1/1.1-1.md)
   * [자바스크립트란?](study/chapter1/1.1-2.md)
@@ -28,7 +29,13 @@
 
 ## Autodidacticism
 
-* [웹 게임 개발 자바스크립트](autodidacticism/memo2.md)
+* [웹 게임 개발 자바스크립트](autodidacticism/memo2/README.md)
+  * [끝말잇기](https://leviseo.github.io/anonymous/ex01word/index.html)
+  * [구구단 맞추기](https://leviseo.github.io/anonymous/ex02gugu/index.html)
+  * [숫자야구](https://leviseo.github.io/anonymous/ex03baseball/index.html)
+  * [틱택토](https://leviseo.github.io/anonymous/ex04tictactoe/index.html)
+  * [로또 추첨기](https://leviseo.github.io/anonymous/ex05lotto/index.html)
+  * [가위바위보](https://leviseo.github.io/anonymous/ex06rps/index.html)
 
 ## archive
 
