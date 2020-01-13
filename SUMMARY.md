@@ -2,22 +2,39 @@
 
 * [Initial page](README.md)
 
+## Study
+
+* [chapter1. 기초](study/chapter1/README.md)
+  * [프로그래밍이란?](study/chapter1/1.1-1.md)
+  * [자바스크립트란?](study/chapter1/1.1-2.md)
+* [chapter2. Bit and Byte, 진수](study/chapter2.-bit-and-byte.md)
+* [chapter3. 데이터타입과 변수](study/chapter3..md)
+* [chapter4. 연산자](study/chapter4..md)
+* [chapter5. 조건문](study/chapter5..md)
+* [chapter6. 반복문](study/06.array.md)
+* [chapter7. 배열](study/chapter7..md)
+* [chapter8. 함수](study/chapter8..md)
+* [chapter9. 객체](study/chapter9..md)
+
 ## FREEFORM PROJECT
 
 * [FREEFORM PROJECT](freeform-project/freeform-project-1/README.md)
-  * [01.inputNumber](freeform-project/freeform-project-1/01.inputnumber.md)
-  * [06.Array](freeform-project/freeform-project-1/06.array.md)
-  * [10.OOP](freeform-project/freeform-project-1/10.oop-this.md)
+  * [inputNumber](freeform-project/freeform-project-1/01.inputnumber.md)
+  * [BMI](freeform-project/freeform-project-1/bmi.md)
+  * [℃/℉ 변환](freeform-project/freeform-project-1/undefined.md)
+  * [입력한 문자열의 길이 측정](freeform-project/freeform-project-1/undefined-2.md)
+  * [입력한 수들의 개수와 합](freeform-project/freeform-project-1/undefined-1.md)
+  * [대소문자 판별](freeform-project/freeform-project-1/undefined-4.md)
+  * [A부터 B까지 짝수의 합](freeform-project/freeform-project-1/a-b.md)
 
-## Note
+## Autodidacticism
 
-* [chapter1. 기초](note/chapter1/README.md)
-  * [프로그래밍이란?](note/chapter1/1.1-1.md)
-  * [자바스크립트란?](note/chapter1/1.1-2.md)
-* [Memo](note/notes/README.md)
-  * [컴파일러 인터프리터](note/notes/undefined.md)
-  * [Memo2](note/notes/memo2.md)
-  * [Memo](note/notes/memo.md)
+* [웹 게임 개발 자바스크립트](autodidacticism/memo2.md)
+
+## archive
+
+* [컴파일러 인터프리터](archive/undefined.md)
+* [Memo](archive/memo.md)
 
 ## Bookmarks <a id="bookmarks-1"></a>
 
