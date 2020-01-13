@@ -4,18 +4,18 @@
 
 ## Study
 
-* [Curriculum](study/curriculum.md)
-* [chapter1. 기초](study/chapter1/README.md)
-  * [프로그래밍이란?](study/chapter1/1.1-1.md)
-  * [자바스크립트란?](study/chapter1/1.1-2.md)
-* [chapter2. Bit and Byte, 진수](study/chapter2.-bit-and-byte.md)
-* [chapter3. 데이터타입과 변수](study/chapter3..md)
-* [chapter4. 연산자](study/chapter4..md)
-* [chapter5. 조건문](study/chapter5..md)
-* [chapter6. 반복문](study/06.array.md)
-* [chapter7. 배열](study/chapter7..md)
-* [chapter8. 함수](study/chapter8..md)
-* [chapter9. 객체](study/chapter9..md)
+* [Curriculum](study/curriculum/README.md)
+  * [chapter1. 기초](study/curriculum/chapter1/README.md)
+    * [프로그래밍이란?](study/curriculum/chapter1/1.1-1.md)
+    * [자바스크립트란?](study/curriculum/chapter1/1.1-2.md)
+  * [chapter2. Bit and Byte, 진수](study/curriculum/chapter2.-bit-and-byte.md)
+  * [chapter3. 데이터타입과 변수](study/curriculum/chapter3..md)
+  * [chapter4. 연산자](study/curriculum/chapter4..md)
+  * [chapter5. 조건문](study/curriculum/chapter5..md)
+  * [chapter6. 반복문](study/curriculum/06.array.md)
+  * [chapter7. 배열](study/curriculum/chapter7..md)
+  * [chapter8. 함수](study/curriculum/chapter8..md)
+  * [chapter9. 객체](study/curriculum/chapter9..md)
 
 ## Freeform Project
 
