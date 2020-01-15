@@ -6,17 +6,17 @@
 
 * [Curriculum](study/curriculum/README.md)
   * [Github Pages - Study index](https://leviseo.github.io/)
-  * [chapter1. 기초](study/chapter1/README.md)
+  * [chapter1. 기초](study/curriculum/chapter1/README.md)
     * [프로그래밍이란?](study/chapter1/1.1-1.md)
     * [자바스크립트란?](study/chapter1/1.1-2.md)
   * [chapter2. Bit and Byte, 진수](study/chapter2.-bit-and-byte.md)
   * [chapter3. 데이터타입과 변수](study/chapter3..md)
-  * [chapter4. 연산자](study/chapter4..md)
-  * [chapter5. 조건문](study/chapter5..md)
-  * [chapter6. 반복문](study/06.array.md)
-  * [chapter7. 배열](study/chapter7..md)
-  * [chapter8. 함수](study/chapter8..md)
-  * [chapter9. 객체](study/chapter9..md)
+  * [chapter4. 연산자](study/curriculum/chapter4..md)
+  * [chapter5. 조건문](study/curriculum/chapter5..md)
+  * [chapter6. 반복문](study/curriculum/06.array.md)
+  * [chapter7. 배열](study/curriculum/chapter7..md)
+  * [chapter8. 함수](study/curriculum/chapter8..md)
+  * [chapter9. 객체](study/curriculum/chapter9..md)
 
 ## Freeform Project
 
@@ -25,7 +25,7 @@
   * [inputNumber](freeform-project/freeform-project-1/01.inputnumber.md)
   * [BMI](freeform-project/freeform-project-1/bmi.md)
   * [℃/℉ 변환](freeform-project/freeform-project-1/undefined.md)
-  * [입력한 문자열의 길이 측정](freeform-project/freeform-project-1/undefined-2.md)
+  * [입력한 문자열의 길이 측정](freeform-project/freeform-project/undefined-2.md)
   * [입력한 수들의 개수와 합](freeform-project/freeform-project-1/undefined-1.md)
   * [대소문자 판별](freeform-project/freeform-project-1/undefined-4.md)
   * [A부터 B까지 짝수의 합](freeform-project/freeform-project-1/a-b.md)
